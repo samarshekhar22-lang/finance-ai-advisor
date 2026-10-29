@@ -1,0 +1,5 @@
+.env
+*.pdf
+requirements.txt
+chroma_db/
+__pycache__/
